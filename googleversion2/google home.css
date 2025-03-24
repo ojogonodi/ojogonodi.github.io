@@ -6,6 +6,8 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    font-size: 14px;
+    max-width: 768px;
 
 }
 
