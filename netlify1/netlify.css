@@ -1,0 +1,60 @@
+body {
+   color: white;
+   background: black;
+}
+
+.container {
+  text-align: center;
+}
+
+.imag1{
+    width: 150px;
+    height: 100px; 
+}
+
+.imag1 img {
+    width: 100%;
+
+}
+
+.icon {
+    width: 20px;
+    padding: 0 4px;
+    
+}
+
+button {
+    background: black;
+    border: 1px solid white;
+    color: white;
+    border-radius: 5px;
+    width: 350px;
+    height: 35px;
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover{
+    color: black;
+    background: white;
+}
+
+.login {
+    color: aqua;
+    text-decoration: none;
+}
+
+.email {
+    color: aqua;
+    text-decoration: none;
+}
+
+footer {
+    color: gray;
+}
+
+.terms {
+    color: gray;
+}
