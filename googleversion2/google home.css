@@ -53,6 +53,13 @@ body {
     margin: 5px;
 }
 
+.button-search:hover{
+    background: rgb(236, 226, 226);
+    color: rgb(35, 31, 31);
+    cursor: pointer;
+
+}
+
 .footer {
     justify-content: center;
     text-align: center;
