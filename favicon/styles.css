@@ -1,0 +1,82 @@
+@media (max-width: 768px) {
+    .container1 {
+        font-size: 16px;
+    }
+    
+ body {
+    font-family: 'Your Chosen Font', sans-serif;
+ }
+    
+}
+
+h5 {
+    color: rgb(177, 177, 177);
+}
+
+h3{
+    font-size: x-large;
+}
+
+.container1 {
+    display: flex;
+}
+
+.fa-solid {
+   padding: 10px;
+   padding-left: 150px;
+}
+
+.logo{
+    width: 150px;
+    height: 20px;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.container2 {
+    background: black;
+    color: white;
+    padding: 20px;
+    padding-left: 14px;
+}
+
+.container3 {
+    
+    border: 0;
+    box-shadow: 2px 0px 11px
+    10px rgb(231, 229, 229);
+    width: 100%;
+    background: white;
+    max-width:1200px;
+    border-radius: 7px;
+}
+.png {
+    border: 0;
+    width: 100%;
+    background: white;
+    max-width:1200px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.page1 {
+    padding: 20px;
+}
+
+footer {
+    padding: 10px;
+    background: rgb(245, 244, 244);
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+h4 {
+    font-size: larger;
+}
+
+.copyright {
+    font-size: small;
+}
